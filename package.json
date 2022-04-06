@@ -1,0 +1,23 @@
+{
+  "name": "cld-named-transformations",
+  "version": "1.0.0",
+  "description": "training repo for named transformations tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudinary-training/cld-named-transformations.git"
+  },
+  "author": "jen brissman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudinary-training/cld-named-transformations/issues"
+  },
+  "homepage": "https://github.com/cloudinary-training/cld-named-transformations#readme",
+  "dependencies": {
+    "cloudinary": "^1.29.0",
+    "dotenv": "^16.0.0"
+  }
+}
