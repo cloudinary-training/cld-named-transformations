@@ -64,11 +64,7 @@ Npm install Node.js libraries. You will be using the `cloudinary` and the `doten
 ```bash
 npm i
 ```
-
-```bash
-node testCredentials.js
-```
-You should your cloud name and API key reported.  Keep your API_SECRET a secret!
+Keep your API_SECRET a secret!
 
 ### Run Code: Run code in optimization directory
 Example: run image upload script
@@ -79,8 +75,8 @@ node optimization/images/upload.js
 ### Video Tutorial
 You can find a [video tutorial:](https://cloudinary.com/documentation/upload_programmatically_tutorial) in Cloudinary Documentation that covers Node.js setup and upload to your Cloudinary cloud.
 
-### Upload Presets Docs
-Additional information about upload presets from the docs [upload presets docs:](https://cloudinary.com/documentation/upload_presets)
+### Named Transformation Docs
+Additional information about named transformations from the docs [upload presets docs:](https://cloudinary.com/documentation/image_transformations#named_transformations)
 
 ## Asset Credits
 
