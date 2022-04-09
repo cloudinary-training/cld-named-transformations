@@ -72,11 +72,20 @@ Example: run image upload script
 ```bash
 node optimization/images/upload.js
 ```
-### Video Tutorial
+### Video Tutorial to watch if you are new to Cloudinary
 You can find a [video tutorial:](https://cloudinary.com/documentation/upload_programmatically_tutorial) in Cloudinary Documentation that covers Node.js setup and upload to your Cloudinary cloud.
 
+### create-named-transformation.js
+This script creates a named transformation
+
+### apply-named-transformation.js
+This script logs a url for each of the 3 images where we are applying our named transformation
+
+### optimize.js
+This script logs a url for each of the 3 images and ALSO adds optimization (f_auto, q_auto, secure https)
+
 ### Named Transformation Docs
-Additional information about named transformations from the docs [upload presets docs:](https://cloudinary.com/documentation/image_transformations#named_transformations)
+Additional information about named transformations from the docs [named transformation docs:](https://cloudinary.com/documentation/image_transformations#named_transformations)
 
 ## Asset Credits
 
