@@ -9,7 +9,7 @@ cloudinary.api
         height: 300,
         radius: "max",
         gravity: "face",
-        crop: "thumb",
+        crop: "thumb"
       },
     ],
   })
