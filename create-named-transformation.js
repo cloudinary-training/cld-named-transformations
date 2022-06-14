@@ -1,6 +1,7 @@
 require("dotenv").config();
 const cloudinary = require("cloudinary").v2;
 
+//creating a new named transformation called avatar-round
 cloudinary.api
   .create_transformation("avatar-round", {
     transformation: [

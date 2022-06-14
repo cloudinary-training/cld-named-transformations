@@ -2,7 +2,7 @@
   "name": "cld-named-transformations",
   "version": "1.0.0",
   "description": "training repo for named transformations tutorial",
-  "main": "index.js",
+  "main": "create-named-transformation.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/cloudinary-training/cld-named-transformations.git"
   },
   "author": "jen brissman",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/cloudinary-training/cld-named-transformations/issues"
   },

@@ -76,7 +76,7 @@ node optimization/images/upload.js
 You can find a [video tutorial:](https://cloudinary.com/documentation/upload_programmatically_tutorial) in Cloudinary Documentation that covers Node.js setup and upload to your Cloudinary cloud.
 
 ### create-named-transformation.js
-This script creates a named transformation
+This script creates a new named transformation called avatar-round
 
 ### apply-named-transformation.js
 This script logs a url for each of the 3 images where we are applying our named transformation
