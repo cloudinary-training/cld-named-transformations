@@ -89,6 +89,8 @@ Additional information about named transformations from the docs [named transfor
 
 ## Asset Credits
 
+Photo by Алекке Блажин from Pexels: https://www.pexels.com/photo/hand-holding-large-bouquet-of-roses-12034732/
+
 Photo by Norma Mortenson from Pexels: https://www.pexels.com/photo/close-up-shot-of-a-man-with-red-back-ground-7301536/
 
 Photo by VK Studio from Pexels: https://www.pexels.com/photo/positive-woman-near-pink-wall-4458627/
