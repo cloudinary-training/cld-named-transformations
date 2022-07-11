@@ -1,6 +1,6 @@
 # Named Transformations Demo Repo for Training/Tutorial
 
-In this module we walk through how to programmatically create two different upload presets and then use those presets to upload assets to Cloudinary. We also take a peek at a more complex preset that you could use to process short form video.
+In this tutorial, you'll gain an overview of what transformations and named transformations are used for in Cloudinary's APIs and Programmable Media products.Then you’ll learn how to programmatically create and apply Cloudinary’s named transformations. Finally, you’ll go a step further, optimizing assets by utilizing Cloudinary’s automatic format and quality features. 
 
 ## Environment Setup
 
@@ -38,7 +38,7 @@ $ npm --version
 
 ### Download Repository
 
-[cust-training-2022 GitHub Repository](https://github.com/cloudinary-training/cld-upload-presets)
+[cust-training-2022 GitHub Repository](https://github.com/cloudinary-training/cld-named-transformations)
 
 - Assets are located in `/assets` directory
 - Run code from root directory 
