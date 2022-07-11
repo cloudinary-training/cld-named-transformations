@@ -30,11 +30,11 @@ $ npm --version
 
 ### Choose an IDE or Use Text Editor
 
-*[Visual Studio Code](https://code.visualstudio.com/download)
-*[WebStorm](https://www.jetbrains.com/webstorm/)
-*[Sublime](https://www.sublimetext.com/)
-*[Atom](https://atom.io/)
-*[iTerm](https://iterm2.com/)
+* [Visual Studio Code](https://code.visualstudio.com/download)
+* [WebStorm](https://www.jetbrains.com/webstorm/)
+* [Sublime](https://www.sublimetext.com/)
+* [Atom](https://atom.io/)
+* [iTerm](https://iterm2.com/)
 
 ### Download Repository
 
