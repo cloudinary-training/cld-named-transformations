@@ -66,12 +66,6 @@ npm i
 ```
 Keep your API_SECRET a secret!
 
-### Run Code: Run code in optimization directory
-Example: run image upload script
-
-```bash
-node optimization/images/upload.js
-```
 ### Video Tutorial to watch if you are new to Cloudinary
 You can find a [video tutorial:](https://cloudinary.com/documentation/upload_programmatically_tutorial) in Cloudinary Documentation that covers Node.js setup and upload to your Cloudinary cloud.
 
