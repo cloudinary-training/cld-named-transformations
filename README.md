@@ -38,7 +38,7 @@ $ npm --version
 
 ### Download Repository
 
-[cust-training-2022 GitHub Repository](https://github.com/cloudinary-training/cld-named-transformations)
+[Download this repository](https://github.com/cloudinary-training/cld-named-transformations)
 
 - Assets are located in `/assets` directory
 - Run code from root directory 
