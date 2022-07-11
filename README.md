@@ -1,6 +1,6 @@
 # Named Transformations Demo Repo for Training/Tutorial
 
-In this tutorial, you'll gain an overview of what transformations and named transformations are used for in Cloudinary's APIs and Programmable Media products.Then you’ll learn how to programmatically create and apply Cloudinary’s named transformations. Finally, you’ll go a step further, optimizing assets by utilizing Cloudinary’s automatic format and quality features. 
+In this tutorial, you'll gain an overview of what transformations and named transformations are used for in Cloudinary's APIs and Programmable Media products. Then you’ll learn how to programmatically create and apply Cloudinary’s named transformations. Finally, you’ll go a step further, optimizing assets by utilizing Cloudinary’s automatic format and quality features. 
 
 ## Environment Setup
 
